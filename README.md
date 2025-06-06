@@ -72,5 +72,5 @@ This project is licensed under the Apache 2.0 License.
 
 ---
 
-> Developed by Patrick Hill  
+> Developed by Patrick Hill — for professional portfolio use.  
 > [LinkedIn](https://www.linkedin.com/in/patrick-hill-4b9807178/)
