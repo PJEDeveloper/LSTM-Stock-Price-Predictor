@@ -27,7 +27,7 @@ The model is trained on historical stock prices, leveraging LSTM’s strength in
 
 ## 📊 Output Sample
 
-![LSTM Prediction vs Actual](301f4a43-ec2b-43bd-abd3-059ac4d68d53.png)
+![LSTM Prediction vs Actual](Original_Stock_Prices_vs_LSTM_Predictions_pic.png)
 
 This plot shows a strong visual alignment between actual and predicted stock values — an indicator of successful sequence learning by the LSTM model.
 
